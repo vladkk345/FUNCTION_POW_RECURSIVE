@@ -1,6 +1,3 @@
-﻿// Prog9.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
-
 #include <iostream>
 #include <stdio.h>
 #include <windows.h>
